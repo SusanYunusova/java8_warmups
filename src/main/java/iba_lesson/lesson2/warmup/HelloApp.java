@@ -1,4 +1,4 @@
-package iba_lesson_warmups.lesson2;
+package iba_lesson.lesson2.warmup;
 
 import java.util.Scanner;
 
