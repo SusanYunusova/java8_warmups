@@ -1,0 +1,11 @@
+The Warmup Tasks:
+-----------------
+
+1. create Java console application, which:
+  - prints "Hello, what is your name?"
+  - expects for user input ($name)
+  - prints "Hello, $name!"
+  - prints "Nice to meet you, $name!"
+  - prints "Bye!"
+2. push this application to own github repository (on www.github.com)
+3. provide the link to the repository via private message to me (Alexey Rykhalskiy) in Slack App
